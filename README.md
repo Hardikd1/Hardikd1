@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate developer and problem-solver from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hardikd1&label=Profile%20views&color=0e75b6&style=flat" alt="Hardikd1" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hardikd1?label=Followers&style=flat-square">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Hardikd1?style=flat-square">
-</p>
-
 ---
 
 <h2 align="center">🚀 Technologies I Work With</h2>
