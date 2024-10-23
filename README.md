@@ -81,7 +81,14 @@
 
 ## 🔥 Projects
 
-- [Weather Data ETL Pipeline](https://github.com/Hardikd1/weather-data-etl-pipeline): An ETL pipeline that retrieves weather data from the Open-Meteo API, transforms it, and loads it into a PostgreSQL database.
+ [Weather Data ETL Pipeline](https://github.com/Hardikd1/weather-data-etl-pipeline): An ETL pipeline that retrieves weather data from the Open-Meteo API, transforms it, and loads it into a PostgreSQL database.
+- **Automated ETL Pipeline**: Built to provide real-time weather data insights for forecasting and analysis.
+- **Extraction**: Uses Apache Airflow to extract weather data (temperature, wind speed, wind direction, etc.) from the [Open-Meteo API](https://open-meteo.com/).
+- **Transformation**: Processes and normalizes weather metrics, reducing data storage by 30%.
+- **Loading**: Loads the transformed data into a PostgreSQL database named `weather_data`.
+- **Database Management**: Utilizes **DBeaver** to establish and manage the PostgreSQL database connection, ensuring efficient data queries and storage optimization.
+- **Scheduling**: Deployed dynamic data ingestion using Python and SQL, scheduling daily tasks with 100% uptime.
+- **Containerization and Orchestration**: Containerized the workflow with **Docker** and utilized **Astronomer** for environment management and orchestration, streamlining deployment and monitoring of the ETL pipeline.
 
 ---
 
@@ -96,13 +103,7 @@
   </a>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hardikd1&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
 
 ---
 
