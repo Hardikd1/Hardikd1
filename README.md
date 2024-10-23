@@ -9,7 +9,6 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on **Weather Data ETL Pipeline with Apache Airflow**
 - 🌱 I’m currently learning **Data Engineering and Machine Learning**
 - 💬 Ask me about **Python, Data Analysis, and ETL Pipelines**
 - 📫 How to reach me: **hardikdarji248@gmail.com**
