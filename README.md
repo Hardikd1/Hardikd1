@@ -78,21 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardikd1&show_icons=true&theme=radical" alt="Hardik's GitHub stats" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikd1&theme=radical" alt="Hardik's GitHub streak" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikd1&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
-
----
 
 ## 🔥 Projects
 
