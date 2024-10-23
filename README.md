@@ -19,64 +19,155 @@
 
 ## 🚀 Technologies I Work With
 
+### Programming Languages
+
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-      <br>JavaScript
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><b>Python</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-      <br>Python
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br><b>Java</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-      <br>HTML5
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br><b>JavaScript</b>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-      <br>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-      <br>MySQL
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br><b>TypeScript</b>
     </td>
   </tr>
 </table>
 
----
+### Web Development
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br><b>CSS3</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="Express.js" />
+      <br><b>Express.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br><b>Node.js</b>
+    </td>
+  </tr>
+</table>
+
+### Data Engineering & Analysis
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/61199454/apache-airflow.png" width="48" height="48" alt="Apache Airflow" />
+      <br><b>Apache Airflow</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="Apache Spark" />
+      <br><b>Apache Spark</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="48" height="48" alt="Hadoop" />
+      <br><b>Hadoop</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://avatars.githubusercontent.com/u/41036599?s=200&v=4" width="48" height="48" alt="Astronomer" />
+      <br><b>Astronomer</b>
+    </td>
+  </tr>
+</table>
+
+### Databases
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br><b>MongoDB</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://download.logo.wine/logo/DBeaver/DBeaver-Logo.wine.png" width="48" height="48" alt="DBeaver" />
+      <br><b>DBeaver</b>
+    </td>
+  </tr>
+</table>
+
+### DevOps & Cloud
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br><b>Docker</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+      <br><b>Kubernetes</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="48" height="48" alt="Terraform" />
+      <br><b>Terraform</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png" width="48" height="48" alt="AWS" />
+      <br><b>AWS</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      <br><b>Azure</b>
+    </td>
+  </tr>
+</table>
+
+### Tools & Platforms
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br><b>Linux</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48" alt="VS Code" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br><b>Postman</b>
+    </td>
+  </tr>
+</table>
 
 
 ## 🔥 Projects
