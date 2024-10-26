@@ -171,7 +171,7 @@
 
 ## 🔥 Projects
 
- [Weather Data ETL Pipeline](https://github.com/Hardikd1/weather-data-etl-pipeline): An ETL pipeline that retrieves weather data from the Open-Meteo API, transforms it, and loads it into a PostgreSQL database.
+ Weather Data ETL Pipeline: An ETL pipeline that retrieves weather data from the Open-Meteo API, transforms it, and loads it into a PostgreSQL database.
 - **Automated ETL Pipeline**: Built to provide real-time weather data insights for forecasting and analysis.
 - **Extraction**: Uses Apache Airflow to extract weather data (temperature, wind speed, wind direction, etc.) from the [Open-Meteo API](https://open-meteo.com/).
 - **Transformation**: Processes and normalizes weather metrics, reducing data storage by 30%.
