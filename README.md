@@ -107,10 +107,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br><b>MongoDB</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://download.logo.wine/logo/DBeaver/DBeaver-Logo.wine.png" width="48" height="48" alt="DBeaver" />
-      <br><b>DBeaver</b>
-    </td>
   </tr>
 </table>
 
@@ -137,6 +133,10 @@
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
       <br><b>Azure</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://download.logo.wine/logo/DBeaver/DBeaver-Logo.wine.png" width="48" height="48" alt="DBeaver" />
+      <br><b>DBeaver</b>
     </td>
   </tr>
 </table>
