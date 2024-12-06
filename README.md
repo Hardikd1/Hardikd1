@@ -168,10 +168,11 @@
   </tr>
 </table>
 
+---
 
 ## 🔥 Projects
 
- Weather Data ETL Pipeline: An ETL pipeline that retrieves weather data from the Open-Meteo API, transforms it, and loads it into a PostgreSQL database.
+### Weather Data ETL Pipeline
 - **Automated ETL Pipeline**: Built to provide real-time weather data insights for forecasting and analysis.
 - **Extraction**: Uses Apache Airflow to extract weather data (temperature, wind speed, wind direction, etc.) from the [Open-Meteo API](https://open-meteo.com/).
 - **Transformation**: Processes and normalizes weather metrics, reducing data storage by 30%.
@@ -179,6 +180,16 @@
 - **Database Management**: Utilizes **DBeaver** to establish and manage the PostgreSQL database connection, ensuring efficient data queries and storage optimization.
 - **Scheduling**: Deployed dynamic data ingestion using Python and SQL, scheduling daily tasks with 100% uptime.
 - **Containerization and Orchestration**: Containerized the workflow with **Docker** and utilized **Astronomer** for environment management and orchestration, streamlining deployment and monitoring of the ETL pipeline.
+
+---
+
+### Telecommunications Database System
+- **Database Design and Implementation**: Designed and implemented a database system for a fictional telecommunications company, managing over 100,000 customers and 2 million records across six interconnected tables.
+- **Entity Relationship Diagram (ERD)**: Created and optimized relationships between entities such as customers, subscriptions, and services.
+- **Data Generation**: Generated realistic datasets using Python libraries like Faker and Pandas for extensive testing and analysis.
+- **Advanced Data Analysis**: Calculated customer churn rate and conducted advanced analysis using SQL window functions such as ROW_NUMBER, SUM OVER, and LAG.
+- **Business Insights**: Built actionable business insights including top-performing services and customer segmentation for strategic decision-making.
+- **ETL Operations**: Performed ETL operations to populate data and ensured data integrity through appropriate constraints and indexing.
 
 ---
 
@@ -193,10 +204,7 @@
   </a>
 </p>
 
-
-
 ---
-
 
 <div align="center">
   <h2>⚡ Fun Fact:</h2>
